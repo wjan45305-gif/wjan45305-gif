@@ -9,13 +9,12 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Studying at @ZABIST 🤖
+🤵 Studying at @SMIT 🤖
 	
-👨‍💻 AI Engineer CargoAI
+👨‍💻 Web Deveolper and chatbot Developer
 	
-💸 Help 80+ Clients via Generative AI & Automation
+💸 Created 5+ Projects 
 
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
  
 <h2>Tech Stack</h2>
 
@@ -61,9 +60,9 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:std-hamza@gmail.com"><img src="https://img.shields.io/badge/-hamzasajid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hamzasajid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/waseem-jan-09354828b/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="wjan45305@gmail.com"><img src="https://img.shields.io/badge/-hamzasajid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/muhammad_waseem0011/"><img src="https://img.shields.io/badge/-@hamzasajid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
 <br>
