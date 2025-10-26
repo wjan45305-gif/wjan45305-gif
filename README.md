@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Muhammad Waseem👋<a href="https://hammad-air.github.io/hamza/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/wjan45305-gif"><img src="https://readme-typing-svg.herokuapp.com/?lines=Chatbot+Developer+and+Web+Developer;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/wjan45305-gif"><img src="https://readme-typing-svg.herokuapp.com/?lines=Chatbot+and+Web+Developer;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
 🤵 Studying at @SMIT 🤖
 	
@@ -24,10 +24,10 @@
         <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  >
     </td>
  <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
+        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg">
     </td>
  <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
@@ -49,7 +49,7 @@
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FPinecone-Primary-Logo-White.png?alt=media&token=83a42d53-6832-4da8-b5ee-db7fb310b4a7">
     </td>    
     <td align='center'>
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
+        <img src="">
     </td>
 </tr>
 
