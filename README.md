@@ -30,7 +30,7 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7f4GbJDfOfaBsF8Fdxq9G1W0gLpbP9F4Aw&s">
     </td>
  
 </tr>
